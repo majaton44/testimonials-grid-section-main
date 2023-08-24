@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live version](https://your-live-site-url.com)
+- [Solution](https://github.com/majaton44/testimonials-grid-section-main)
+- [Live version](https://rainbow-testimonials-grid-section.netlify.app/)
 
 ## My process
 
